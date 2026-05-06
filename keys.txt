@@ -1,0 +1,58 @@
+595:                <div key={record.id} className="flex items-center justify-between p-3 bg-gray-50 rounded-xl border border-gray-100">
+620:                key={i} 
+645:            <div key={i} className="min-w-[240px] p-3 bg-white rounded-2xl border border-gray-100 shadow-sm flex flex-col gap-2">
+650:                    <Sparkles key={j} size={10} className={j < review.rating ? "text-amber-400 fill-amber-400" : "text-gray-200"} />
+672:            <div key={i} className="bg-white rounded-2xl border border-gray-100 overflow-hidden">
+757:                key={game}
+818:            <span key={tag} className="px-3 py-1.5 bg-orange-50 text-orange-600 text-xs font-medium rounded-full border border-orange-100">
+851:                key={game}
+916:              <span key={char} className={cn(
+1123:                          <option key={v} value={v}>{v}</option>
+1255:                        key={opt}
+1275:                          key={opt}
+1304:                          key={opt}
+1329:                        <option key={v} value={v}>{v}</option>
+1481:                        key={opt}
+1500:                          key={opt}
+1528:                          key={opt}
+1628:                                key={item}
+1658:                              <div key={item.field} className="flex flex-col gap-2">
+1713:                                key={item}
+1774:                                key={item}
+1811:                        key={opt}
+1830:                          key={opt}
+1958:                            key={skin}
+1984:                            <div key={skin} className="flex items-center gap-2">
+2028:                            key={skin}
+2060:              <div key={config.key} className="flex flex-col gap-4">
+2080:                        <option key={opt} value={opt}>{opt}</option>
+2090:                        <div key={i} className="relative aspect-square rounded-2xl overflow-hidden border border-gray-100 shadow-md group">
+2224:                key={i}
+2451:                      <div key={i} className="flex flex-col gap-0.5">
+2558:                          <div key={i} className="relative rounded-xl overflow-hidden aspect-[3/4] shadow-sm">
+2656:              <div key={i} className="flex flex-col gap-1">
+2675:                    key={tab}
+2693:                    key={tab}
+2711:                    key={tab}
+2728:              <div key={i} className="relative group rounded-2xl overflow-hidden aspect-[3/4] shadow-md">
+2787:          <div key={item.step} className="flex gap-4 p-4 bg-white rounded-xl border border-gray-100">
+2815:          <div key={item.step} className="flex gap-4 p-4 bg-white rounded-xl border border-gray-100">
+2949:            key={item.id}
+2978:          <div key={record.id}>
+3203:            key={msg.id}
+3227:                key={opt}
+3716:            key={currentPage}
+3769:          <div key="delete-account-modal" className="fixed inset-0 z-[200] flex items-center justify-center p-6">
+3771:              key="delete-account-overlay"
+3779:              key="delete-account-content"
+4100:          <div key="realname-tutorial-modal" className="fixed inset-0 z-[100] flex items-center justify-center p-6">
+4102:              key="realname-tutorial-overlay"
+4110:              key="realname-tutorial-content"
+4248:                      key={i} 
+4422:            <div key="method-sheet-modal" className="fixed inset-0 z-[200]">
+4424:                key="method-sheet-overlay"
+4432:                key="method-sheet-content"
+4450:                      key={method.id}
+4523:          <div key="image-zoom-modal" className="fixed inset-0 z-[1000] flex items-center justify-center p-4">
+4525:              key="image-zoom-overlay"
+4533:              key="image-zoom-content"

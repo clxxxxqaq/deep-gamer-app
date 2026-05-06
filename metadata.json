@@ -1,0 +1,8 @@
+{
+  "name": "深度估号：撮合交易版本",
+  "description": "一个专业的游戏账号快速估值工具，支持授权、链接及综合多种估值方式，提供行情分析与热点资源分享。",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
